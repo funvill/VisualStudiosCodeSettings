@@ -1,12 +1,17 @@
 // Place your settings in this file to overwrite the default settings
 {
     "editor.renderLineHighlight": "all",
-    "window.openFilesInNewWindow": "off",
     "editor.wordWrap": "off",
+    "editor.tabSize": 4,
+    "window.openFilesInNewWindow": "off",
     "window.zoomLevel": 0,
     "workbench.iconTheme": "vs-seti",
     "editor.minimap.enabled": true,
     "extensions.autoUpdate":  true,
+    "files.associations": {
+        "*.ino": "cpp"
+    },
     "C_Cpp.clang_format_style": "{BasedOnStyle: WebKit, IndentCaseLabels: true}",
     "C_Cpp.clang_format_fallbackStyle": "WebKit"
+    
 }
