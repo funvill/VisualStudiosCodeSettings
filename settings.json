@@ -12,6 +12,6 @@
         "*.ino": "cpp"
     },
     "C_Cpp.clang_format_style": "{BasedOnStyle: WebKit, IndentCaseLabels: true}",
-    "C_Cpp.clang_format_fallbackStyle": "WebKit"
-    
+    "C_Cpp.clang_format_fallbackStyle": "WebKit",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\bash.exe"
 }
