@@ -13,5 +13,12 @@
     },
     "C_Cpp.clang_format_style": "{BasedOnStyle: WebKit, IndentCaseLabels: true}",
     "C_Cpp.clang_format_fallbackStyle": "WebKit",
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\bash.exe"
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\bash.exe",
+    "[cpp]": {
+        "editor.quickSuggestions": false
+    },
+    "[c]": {
+        "editor.quickSuggestions": false
+    },
+    "workbench.colorTheme": "Monokai"
 }
