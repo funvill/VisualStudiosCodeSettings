@@ -20,5 +20,6 @@
     "[c]": {
         "editor.quickSuggestions": false
     },
-    "workbench.colorTheme": "Monokai"
+    "workbench.colorTheme": "Monokai",
+    "git.autofetch": false
 }
