@@ -5,21 +5,23 @@
     "editor.tabSize": 4,
     "window.openFilesInNewWindow": "off",
     "window.zoomLevel": 0,
-    "workbench.iconTheme": "vs-seti",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Monokai",
     "editor.minimap.enabled": true,
     "extensions.autoUpdate":  true,
     "files.associations": {
         "*.ino": "cpp"
     },
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\bash.exe",
+    // "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "git.enabled": false,
+    "editor.multiCursorModifier": "ctrlCmd",
     "C_Cpp.clang_format_style": "{BasedOnStyle: WebKit, IndentCaseLabels: true}",
     "C_Cpp.clang_format_fallbackStyle": "WebKit",
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\bash.exe",
-    "[cpp]": {
-        "editor.quickSuggestions": false
-    },
-    "[c]": {
-        "editor.quickSuggestions": false
-    },
-    "workbench.colorTheme": "Monokai",
-    "git.autofetch": false
+    "search.location": "panel",
+    "vsicons.dontShowNewVersionMessage": true,
+    "window.titleBarStyle": "custom",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "editor.formatOnSave": true,
 }
